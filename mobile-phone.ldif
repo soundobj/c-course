@@ -1,0 +1,5 @@
+dn: uid=dde-dieg,ou=january,ou=2019,ou=people,dc=42,dc=us,dc=org
+changetype: modify
+add: mobile
+mobile: +1 2345 6789
+-
